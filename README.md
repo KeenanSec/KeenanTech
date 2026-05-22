@@ -55,7 +55,6 @@ I focus on **Blue Teaming**.
 <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
 <img src="https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white" />
 <img src="https://img.shields.io/badge/Wazuh-02569B?style=for-the-badge&logo=Wazuh&logoColor=white" />
 <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=VirtualBox&logoColor=white" />
 
